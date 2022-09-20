@@ -6,7 +6,7 @@ export const config = {
   // 公众号APP_ID
   APP_ID: "wxa33d1505c9912883",
   // 公众号APP_SECRET
-  APP_SECRET: "e34fb3f22ab7d522f73ad0fc5fb2d7ef",
+  APP_SECRET: "f690838d32c5396d5511fe4d17540c12",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -54,7 +54,7 @@ export const config = {
       // 所在省份
       province: "四川",
       // 所在城市
-      city: "眉山",
+      city: "成都",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
